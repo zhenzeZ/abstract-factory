@@ -1,3 +1,3 @@
 ﻿  main.cpp
-C:\Users\gameuser\Desktop\Abstract Factory\Abstract Factory\main.cpp(55,20): warning C4018:  '<': signed/unsigned mismatch
-  Abstract Factory.vcxproj -> C:\Users\gameuser\Desktop\Abstract Factory\Debug\Abstract Factory.exe
+C:\Users\LuuXiaO\Desktop\Abstract Factory\Abstract Factory\main.cpp(14,20): warning C4018:  “<”: 有符号/无符号不匹配
+  Abstract Factory.vcxproj -> C:\Users\LuuXiaO\Desktop\Abstract Factory\Debug\Abstract Factory.exe
